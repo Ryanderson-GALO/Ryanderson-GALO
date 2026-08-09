@@ -1,3 +1,6 @@
+![Welcome](https://i.pinimg.com/1200x/07/d5/d7/07d5d7b2a0851d673a737992c7d84b37.jpg)
+---
+
 # Ryanderson Henzyo Souza e Moura
 > A verdadeira arte é apenas o reflexo dos sentimentos de quem a contempla.
 >
@@ -7,7 +10,7 @@
 
 Finalizando o curso técnico em Informática integrado ao ensino médio no IFNMG - Campus Salinas.
 
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhhOGpseWFpY2lzMXc5NjA0NDkybXU0MDQ1N2I5dnM2a3IyNmx2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9az09tlYyYNfq/giphy.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R5bnhrZTJnaDN0ZDdycmFqNGgwZTJuN2NzdndkbWhjbWZoNWl0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif)
 
 ## 👨‍💻 Sobre Mim
 
@@ -83,3 +86,8 @@ Finalizando o curso técnico em Informática integrado ao ensino médio no IFNMG
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ryanderson-GALO&show_icons=true&include_all_commits=true&count_private=true&theme=date_night)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Ryanderson-GALO&layout=compact&langs_count=6&theme=date_night)
+
+
+---
+
+![GoodBye](https://i.pinimg.com/1200x/8a/23/4a/8a234a24513c0d5d1f1ab7f252d84c15.jpg)
