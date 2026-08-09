@@ -41,6 +41,7 @@ Finalizando o curso técnico em Informática integrado ao ensino médio no IFNMG
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F97316?style=for-the-badge&logo=bruno&logoColor=black)
 
 ![RDKit](https://img.shields.io/badge/RDKit-Quimioinform%C3%A1tica-005A9C?style=for-the-badge)
 
