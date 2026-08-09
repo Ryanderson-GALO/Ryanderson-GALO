@@ -24,26 +24,60 @@ Finalizando o curso técnico em Informática integrado ao ensino médio no IFNMG
 
 ---
 
+### ⭐ Meus Favoritos
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**🎬 Animes**
+
+<img src="assets/img/animes/one-piece.jpg" width="90"/> One Piece  
+<img src="assets/img/animes/black-clover.jpg" width="90"/> Black Clover  
+<img src="assets/img/animes/mashle.jpg" width="90"/> Mashle: Magic and Muscles
+
+</td>
+<td valign="top" width="25%">
+
+**🎮 Jogos**
+
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg" width="120"/> Hades  
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1147560/header.jpg" width="120"/> Skul: The Hero Slayer  
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/204450/header.jpg" width="120"/> Call of Juarez: Gunslinger
+
+</td>
+<td valign="top" width="25%">
+
+**🦸 Personagens**
+
+<img src="assets/img/personagens/anakin.jpg" width="90"/> Anakin Skywalker  
+<img src="assets/img/personagens/zoro.jpg" width="90"/> Roronoa Zoro  
+<img src="assets/img/personagens/homem-aranha.jpg" width="90"/> Homem-Aranha
+
+</td>
+<td valign="top" width="25%">
+
+**🎧 Músicas**
+
+<img src="assets/img/musicas/man-without-love.jpg" width="90"/> A Man Without Love  
+<img src="assets/img/musicas/before-i-forget.jpg" width="90"/> Before I Forget — Slipknot  
+<img src="assets/img/musicas/duality.jpg" width="90"/> Duality — Slipknot  
+<img src="assets/img/musicas/sugar.jpg" width="90"/> Sugar — System of a Down
+
+</td>
+</tr>
+</table>
+
+---
+
+---
+
+
 ### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F97316?style=for-the-badge&logo=bruno&logoColor=black)
-
-![RDKit](https://img.shields.io/badge/RDKit-Quimioinform%C3%A1tica-005A9C?style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,js,html,css,godot,nodejs,express,postgres,prisma)](https://skillicons.dev)
+[![Scratch](https://img.shields.io/badge/-Scratch-4D97FF?style=flat&logo=scratch&logoColor=white)](https://scratch.mit.edu)
+[![RDKit](https://img.shields.io/badge/-RDKit-005A9C?style=flat)](https://www.rdkit.org)
 
 ---
 
