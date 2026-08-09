@@ -15,7 +15,7 @@ Finalizando o curso técnico em Informática integrado ao ensino médio no IFNMG
 ## 👨‍💻 Sobre Mim
 
 - 🧪 Atualmente trabalhando em um projeto de **Quimioinformática**, com Python utilizando a biblioteca **RDKit**, no [Lab de Química Computacional do IFNMG](https://github.com/Lab-de-Quimica-Computacional-do-IFNMG).
-- 🌐 Desenvolvendo um site institucional com viés acadêmico, na disciplina de Desenvolvimento Web do curso técnico.
+- 🌐 Desenvolvendo um site institucional com viés acadêmico, na disciplina de Desenvolvimento Web do curso técnico. Com o tema [Site Institucional do Restaurante Dona Cida](https://github.com/Samuel007b/tf-web-tema)
 - 🎮 Desenvolvo jogos como hobby, utilizando Java, Scratch, GDScript (Godot Engine) e C.
 - 🎬 Também curto editar vídeos e fazer design gráfico — ainda em nível iniciante/médio.
 - 🎲 Mestre de RPG nas horas vagas.
